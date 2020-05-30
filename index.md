@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 鹦鹉币，自由，平等，便捷，高效的数字货币！
 
 You can use the [editor on GitHub](https://github.com/MaZemin/parrot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
